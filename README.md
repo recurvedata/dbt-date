@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://circleci.com/gh/calogica/date/tree/main">
+<a href="https://circleci.com/gh/calogica/dbt-date/tree/main">
 <img alt="CircleCI" src="https://img.shields.io/circleci/build/github/calogica/dbt-date/main?style=plastic"/>
 </a>
 <img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-ff69b4?style=plastic"/>
