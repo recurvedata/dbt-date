@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://circleci.com/gh/calogica/dbt-expectations/tree/main">
-<img alt="CircleCI" src="https://img.shields.io/circleci/build/github/calogica/dbt-expectations/main?style=plastic"/>
+<a href="https://circleci.com/gh/calogica/date/tree/main">
+<img alt="CircleCI" src="https://img.shields.io/circleci/build/github/calogica/dbt-date/main?style=plastic"/>
 </a>
 
 # dbt-date
