@@ -1,4 +1,7 @@
-[![CircleCI](https://circleci.com/gh/calogica/dbt-date/tree/main.svg?style=svg)](https://circleci.com/gh/calogica/dbt-date/tree/main)
+<p align="center">
+<a href="https://circleci.com/gh/calogica/dbt-expectations/tree/main">
+<img alt="CircleCI" src="https://img.shields.io/circleci/build/github/calogica/dbt-expectations/main?style=plastic"/>
+</a>
 
 # dbt-date
 
