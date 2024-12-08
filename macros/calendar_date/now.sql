@@ -9,3 +9,7 @@
 {%- macro doris__now(tz) -%}
 {{ dbt.current_timestamp() }}
 {%- endmacro -%}
+
+{%- macro starrocks__now(tz) -%}
+{{ dbt.current_timestamp() }}
+{%- endmacro -%}
